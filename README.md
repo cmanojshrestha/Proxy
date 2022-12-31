@@ -35,15 +35,25 @@ With Proxifier you can easily tunnel all TCP connections on the system or the se
 2) 
 3) Install Proxifier on the client.
 
-2) On the "Profile" menu of Proxifier, click "Proxy Servers" (Figure 1-1).
+2) On the "Profile" menu of Proxifier, click "Proxy Servers"
 
-![how-to-use-proxifier-1](https://user-images.githubusercontent.com/106522935/210150082-44fb4a4d-fe54-46a6-a0e9-50e7a02e4590.jpg) Figure 1_1
+![how-to-use-proxifier-1](https://user-images.githubusercontent.com/106522935/210150082-44fb4a4d-fe54-46a6-a0e9-50e7a02e4590.jpg)
 
-3) In the pop up "Proxy Server" dialogue box, click the "Add" button (Figure 1-2).
+3) In the pop up "Proxy Server" dialogue box, click the "Add" button.
 
-![how-to-use-proxifier-2](https://user-images.githubusercontent.com/106522935/210150204-9e181985-d2ce-4226-aaaf-5c89679b64cb.jpg) Figure 1‑2
+![how-to-use-proxifier-2](https://user-images.githubusercontent.com/106522935/210150204-9e181985-d2ce-4226-aaaf-5c89679b64cb.jpg)
 
-4) In the pop up "Proxy Server" dialogue box, type the IP address and SOCKS port of the proxy server, select the "SOCKS Version 5" radio button, then click the "OK" button (Figure 1-3).
+4) In the pop up "Proxy Server" dialogue box, type the IP address and SOCKS port of the proxy server, select the "SOCKS Version 5" radio button, then click the "OK" button.
 
 ![how-to-use-proxifier-3](https://user-images.githubusercontent.com/106522935/210150247-d3a935e3-7cdc-4c13-8672-adc22875d553.jpg)
+
+5) In the "Proxy Server" dialogue box, click the "Check" button.
+
+![how-to-use-proxifier-4 (1)](https://user-images.githubusercontent.com/106522935/210150327-bc9fc2ac-60a3-4cbd-a58e-25d9ce5c9ad0.jpg) 
+
+6) The pop up "Proxy Checker" dialogue box will show the test result.
+
+![how-to-use-proxifier-5](https://user-images.githubusercontent.com/106522935/210150355-a65457f9-e1da-4933-a04d-8c2d5aa6746a.jpg)
+
+
 
