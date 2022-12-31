@@ -41,3 +41,9 @@ With Proxifier you can easily tunnel all TCP connections on the system or the se
 
 3) In the pop up "Proxy Server" dialogue box, click the "Add" button (Figure 1-2).
 
+![how-to-use-proxifier-2](https://user-images.githubusercontent.com/106522935/210150204-9e181985-d2ce-4226-aaaf-5c89679b64cb.jpg) Figure 1‑2
+
+4) In the pop up "Proxy Server" dialogue box, type the IP address and SOCKS port of the proxy server, select the "SOCKS Version 5" radio button, then click the "OK" button (Figure 1-3).
+
+![how-to-use-proxifier-3](https://user-images.githubusercontent.com/106522935/210150247-d3a935e3-7cdc-4c13-8672-adc22875d553.jpg)
+
