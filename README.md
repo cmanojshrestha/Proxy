@@ -57,7 +57,7 @@ With Proxifier you can easily tunnel all TCP connections on the system or the se
 
 # For more details:
 
-Visit:
+Visit: https://www.proxifier.com/docs/win-v3/quick.htm
 
 Tutorial: https://drive.google.com/drive/folders/1iJSeAMjgkDYRXtrQMsr5mWHclf-qy0w2
 
