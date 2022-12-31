@@ -55,5 +55,9 @@ With Proxifier you can easily tunnel all TCP connections on the system or the se
 
 ![how-to-use-proxifier-5](https://user-images.githubusercontent.com/106522935/210150355-a65457f9-e1da-4933-a04d-8c2d5aa6746a.jpg)
 
+# For more details:
 
+Visit:
+
+Tutorial: https://drive.google.com/drive/folders/1iJSeAMjgkDYRXtrQMsr5mWHclf-qy0w2
 
