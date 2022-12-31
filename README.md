@@ -38,7 +38,7 @@ With Proxifier you can easily tunnel all TCP connections on the system or the se
 2) On the "Profile" menu of Proxifier, click "Proxy Servers" (Figure 1-1).
 
 ![how-to-use-proxifier-1](https://user-images.githubusercontent.com/106522935/210150082-44fb4a4d-fe54-46a6-a0e9-50e7a02e4590.jpg)
-Figure 1‑1
+               Figure 1_1
 
 3) In the pop up "Proxy Server" dialogue box, click the "Add" button (Figure 1-2).
 
