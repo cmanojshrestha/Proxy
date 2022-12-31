@@ -31,9 +31,10 @@ With Proxifier you can easily tunnel all TCP connections on the system or the se
 ... and much more.
 
 # Configuration of Proxifier
-1) Proxy Settings
-2) 
-3) Install Proxifier on the client.
+
+Proxy Settings
+
+1) Install Proxifier on the client.
 
 2) On the "Profile" menu of Proxifier, click "Proxy Servers"
 
